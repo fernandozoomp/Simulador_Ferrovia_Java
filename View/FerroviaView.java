@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Leandro
+ * @author FERNANDO C
  */
 public class FerroviaView extends JPanel {
     
