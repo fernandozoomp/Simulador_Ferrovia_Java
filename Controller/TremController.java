@@ -11,7 +11,7 @@ import java.util.TimerTask;
 
 /**
  *
- * @author Leandro
+ * @author FERNANDO C
  */
 public class TremController {
     
