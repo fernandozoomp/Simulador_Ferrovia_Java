@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author Leandro
+ * @author FERNANDO C
  */
 public class Trem {
     private String nome;
