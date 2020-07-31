@@ -15,7 +15,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Leandro
+ * @author FERNANDO C
  */
 public class Main {
     public static void main(String args[]){
