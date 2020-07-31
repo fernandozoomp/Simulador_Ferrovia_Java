@@ -9,7 +9,7 @@ import Model.Ferrovia;
 
 /**
  *
- * @author Leandro
+ * @author FERNANDO C
  */
 public class FerroviaController {
     
