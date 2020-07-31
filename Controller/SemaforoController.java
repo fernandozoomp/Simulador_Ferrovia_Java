@@ -9,7 +9,7 @@ import Model.Semaforo;
 
 /**
  *
- * @author Leandro
+ * @author FERNANDO C
  */
 public class SemaforoController {
     
